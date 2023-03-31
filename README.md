@@ -10,3 +10,4 @@ The model uses the concept of One-Hot encoding to use BinaryCrossEntropy loss fu
 ### K - Nearest Neighbour:-
 The model uses the same linear_train data set for regression no training of the model is involved and K is set to 4 which gives the best results for the given data set.
 ### Neural Networks:-
+The model is implemented using neural networks it contains 1 hidden layer and 1 output layer
